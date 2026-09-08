@@ -1,13 +1,13 @@
-addict
-future
-numpy
-opencv-python
-Pillow
-pyyaml
-requests
-scikit-image
-scipy
-torch>=1.9
-torchvision
-timm
-einops
+addict @ git+https://github.com/mewwts/addict.git
+future @ git+https://github.com/PythonCharmers/python-future.git
+numpy @ git+https://github.com/numpy/numpy.git
+opencv-python @ git+https://github.com/opencv/opencv-python.git
+Pillow @ git+https://github.com/python-pillow/Pillow.git
+pyyaml @ git+https://github.com/yaml/pyyaml.git
+requests @ git+https://github.com/pypls/requests.git
+scikit-image @ git+https://github.com/scikit-image/scikit-image.git
+scipy @ git+https://github.com/scipy/scipy.git
+torch @ git+https://github.com/pytorch/pytorch.git
+torchvision @ git+https://github.com/pytorch/vision.git
+timm @ git+https://github.com/huggingface/pytorch-image-models.git
+einops @ git+https://github.com/arogozhnikov/einops.git
